@@ -1,5 +1,5 @@
 # cassinidev
-CassiniDev
+CassiniDev by microsoft.
 Cassini for Developers and Testers:  http://cassinidev.codeplex.com
 ------------------------------------------------------------------------------------------
 
