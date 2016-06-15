@@ -144,5 +144,3 @@ To Do:
     and perhaps multiple web applications. 
 * Disabling directory browsing appears to be broken but I think it relates to the MVC
   friendly URL fix by Dmitry.
-  
-#有一天我在大街上看见三个男孩在下水管道掏粪吃,我就想阻止他们叫他们别吃,他们不听还拿屎扔我,不过被我轻易的躲过去了,因为他们的左手和右手都是慢动作,我气坏叫他们停手,他们不听又拿屎扔我,不过还是被我轻易的躲过去了,因为他们左手和右手慢动作重播.
