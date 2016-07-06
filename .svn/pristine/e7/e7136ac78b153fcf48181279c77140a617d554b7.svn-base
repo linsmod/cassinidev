@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repositories>
+  <repository path="..\CassiniDev\packages.config" />
+  <repository path="..\QuickStarts\Mvc2Application.IntegrationTests\packages.config" />
+  <repository path="..\Samples\FixtureSamples\CassiniDev.NUnitFixtures.Tests\packages.config" />
+  <repository path="..\Tests\CassiniDev.Tests\packages.config" />
+</repositories>
